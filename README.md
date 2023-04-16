@@ -12,7 +12,6 @@
 
 - 🖥️ Front end developer
 - ✍️ Constantly learning
-- ❤️ Love coding
   
 <br>
 
