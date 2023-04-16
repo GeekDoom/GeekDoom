@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">👋 Hi, im...  </h1>
+<h1 align="center">👋 Hi, i'm...  </h1>
 </div>
 <a href="https://josegoyos.vercel.app"><img src="https://res.cloudinary.com/josegoyos/image/upload/v1681603850/gvsgz7z0gu6ndgymmr2d.png">
 
