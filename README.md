@@ -1,14 +1,13 @@
 <div align="center">
-<h1 align="center">👋 Hola, soy...  </h1>
+<h1 align="center">👋 Hi, im...  </h1>
 </div>
 <a href="https://josegoyos.vercel.app"><img src="https://res.cloudinary.com/josegoyos/image/upload/v1681603850/gvsgz7z0gu6ndgymmr2d.png">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/GeekDoom?style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Jose%20Goyos&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjose-goyos%2F)
-![Twitter URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2FGeekDoom)
-![Twitter URL](https://img.shields.io/twitter/url?label=GeekDoom%237153&logo=discord&style=social&url=https%3A%2F%2Fdiscord)
 
-## Sobre mi
+
+## About me
 
 - 🖥️ Front end developer
 - ✍️ Constantly learning
